@@ -1,6 +1,6 @@
 {
     "name": "ts-backend-boilerplate",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "A TypeScript backend boilerplate",
     "main": "src/server.ts",
     "bin": {
